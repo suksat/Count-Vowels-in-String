@@ -1,0 +1,441 @@
+*** *** within for-loop j=0 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 0 ... c: S ... s.charAt(j): S
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(33) Returning False for c: S
+*** *** within for-loop j=1 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 1 ... c: u ... s.charAt(j): u
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(29) i: 9 ---> c: u ---> al.get(i): u
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(29) i: 9 ---> c: u ---> al.get(i): u
+(51) c: u ... isVowel(c): true ... countVowel: 1
+*** *** within for-loop j=2 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 2 ... c: k ... s.charAt(j): k
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(33) Returning False for c: k
+*** *** within for-loop j=3 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 3 ... c: u ... s.charAt(j): u
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(29) i: 9 ---> c: u ---> al.get(i): u
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(29) i: 9 ---> c: u ---> al.get(i): u
+(51) c: u ... isVowel(c): true ... countVowel: 2
+*** *** within for-loop j=4 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 4 ... c: m ... s.charAt(j): m
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(33) Returning False for c: m
+*** *** within for-loop j=5 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 5 ... c: a ... s.charAt(j): a
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+(29) i: 2 ---> c: a ---> al.get(i): a
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+(29) i: 2 ---> c: a ---> al.get(i): a
+(51) c: a ... isVowel(c): true ... countVowel: 3
+*** *** within for-loop j=6 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 6 ... c: r ... s.charAt(j): r
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(33) Returning False for c: r
+*** *** within for-loop j=7 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 7 ... c:   ... s.charAt(j):
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(33) Returning False for c:
+*** *** within for-loop j=8 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 8 ... c: S ... s.charAt(j): S
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(33) Returning False for c: S
+*** *** within for-loop j=9 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 9 ... c: a ... s.charAt(j): a
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+(29) i: 2 ---> c: a ---> al.get(i): a
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+(29) i: 2 ---> c: a ---> al.get(i): a
+(51) c: a ... isVowel(c): true ... countVowel: 4
+*** *** within for-loop j=10 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 10 ... c: t ... s.charAt(j): t
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(33) Returning False for c: t
+*** *** within for-loop j=11 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 11 ... c: y ... s.charAt(j): y
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(33) Returning False for c: y
+*** *** within for-loop j=12 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 12 ... c: e ... s.charAt(j): e
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+(29) i: 3 ---> c: e ---> al.get(i): e
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+(29) i: 3 ---> c: e ---> al.get(i): e
+(51) c: e ... isVowel(c): true ... countVowel: 5
+*** *** within for-loop j=13 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 13 ... c: n ... s.charAt(j): n
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(33) Returning False for c: n
+*** *** within for-loop j=14 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 14 ... c:   ... s.charAt(j):
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(33) Returning False for c:
+*** *** within for-loop j=15 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 15 ... c: i ... s.charAt(j): i
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+(29) i: 6 ---> c: i ---> al.get(i): i
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+(29) i: 6 ---> c: i ---> al.get(i): i
+(51) c: i ... isVowel(c): true ... countVowel: 6
+*** *** within for-loop j=16 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 16 ... c: s ... s.charAt(j): s
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(33) Returning False for c: s
+*** *** within for-loop j=17 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 17 ... c:   ... s.charAt(j):
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(33) Returning False for c:
+*** *** within for-loop j=18 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 18 ... c: a ... s.charAt(j): a
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+(29) i: 2 ---> c: a ---> al.get(i): a
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+(29) i: 2 ---> c: a ---> al.get(i): a
+(51) c: a ... isVowel(c): true ... countVowel: 7
+*** *** within for-loop j=19 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 19 ... c:   ... s.charAt(j):
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(33) Returning False for c:
+*** *** within for-loop j=20 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 20 ... c: P ... s.charAt(j): P
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(33) Returning False for c: P
+*** *** within for-loop j=21 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 21 ... c: r ... s.charAt(j): r
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(33) Returning False for c: r
+*** *** within for-loop j=22 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 22 ... c: o ... s.charAt(j): o
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+(29) i: 7 ---> c: o ---> al.get(i): o
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+(29) i: 7 ---> c: o ---> al.get(i): o
+(51) c: o ... isVowel(c): true ... countVowel: 8
+*** *** within for-loop j=23 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 23 ... c:   ... s.charAt(j):
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(33) Returning False for c:
+*** *** within for-loop j=24 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 24 ... c: i ... s.charAt(j): i
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+(29) i: 6 ---> c: i ---> al.get(i): i
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+(29) i: 6 ---> c: i ---> al.get(i): i
+(51) c: i ... isVowel(c): true ... countVowel: 9
+*** *** within for-loop j=25 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 25 ... c: n ... s.charAt(j): n
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(33) Returning False for c: n
+*** *** within for-loop j=26 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 26 ... c:   ... s.charAt(j):
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(33) Returning False for c:
+*** *** within for-loop j=27 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 27 ... c: J ... s.charAt(j): J
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(33) Returning False for c: J
+*** *** within for-loop j=28 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 28 ... c: a ... s.charAt(j): a
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+(29) i: 2 ---> c: a ---> al.get(i): a
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+(29) i: 2 ---> c: a ---> al.get(i): a
+(51) c: a ... isVowel(c): true ... countVowel: 10
+*** *** within for-loop j=29 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 29 ... c: v ... s.charAt(j): v
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+*** *** within for-loop i=3 to al.size()=10 *** ***
+*** *** within for-loop i=4 to al.size()=10 *** ***
+*** *** within for-loop i=5 to al.size()=10 *** ***
+*** *** within for-loop i=6 to al.size()=10 *** ***
+*** *** within for-loop i=7 to al.size()=10 *** ***
+*** *** within for-loop i=8 to al.size()=10 *** ***
+*** *** within for-loop i=9 to al.size()=10 *** ***
+(33) Returning False for c: v
+*** *** within for-loop j=30 to s.length()=31 *** ***
+(47) s: Sukumar Satyen is a Pro in Java ... s.length(): 31 ... j: 30 ... c: a ... s.charAt(j): a
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+(29) i: 2 ---> c: a ---> al.get(i): a
+*** *** within for-loop i=0 to al.size()=10 *** ***
+*** *** within for-loop i=1 to al.size()=10 *** ***
+*** *** within for-loop i=2 to al.size()=10 *** ***
+(29) i: 2 ---> c: a ---> al.get(i): a
+(51) c: a ... isVowel(c): true ... countVowel: 11
+String: Sukumar Satyen is a Pro in Java
+Total number of vowels in the string are: 11
+
+Process finished with exit code 0
